@@ -1,0 +1,6 @@
+EmployeeID,Name,Age,DepartmentID,DepartmentName,Location,AgeGroup
+1,Alice,25,101,HR,New York,Under 30
+2,Bob,30,102,Engineering,San Francisco,Under 30
+3,Charlie,35,101,HR,New York,Over 30
+4,David,40,103,Marketing,Chicago,Over 30
+5,Eve,45,102,Engineering,San Francisco,Over 30

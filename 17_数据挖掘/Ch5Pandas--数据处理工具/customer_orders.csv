@@ -1,0 +1,111 @@
+CustomerID,CustomerName,OrderDate,OrderAmount,ProductCategory
+1,Kenneth Green,2023-03-07,556.0,Clothing
+2,Craig Stark,2024-04-19,421.0,Books
+3,Nathan Davis,2024-08-09,425.0,Books
+4,Timothy Ward,2023-10-02,890.0,Clothing
+5,Michael Johnson,2024-12-19,741.0,
+6,Linda Garner,2023-04-22,582.0,Clothing
+7,Julie Medina,2023-03-05,127.0,Clothing
+8,Jennifer Cantrell,2023-03-29,267.0,Clothing
+9,Christy Hoover,2023-05-28,320.0,Home Appliances
+10,Shelby Soto,2023-07-01,496.0,Clothing
+11,Madison Williams,2024-06-24,315.0,Electronics
+12,Dawn Andrews,2024-04-20,,Electronics
+13,Melinda Hunt,2024-10-30,874.0,Clothing
+14,Caitlin Smith,2024-02-27,675.0,Clothing
+15,Ashley Barrett,2023-05-08,596.0,Electronics
+16,Deborah Terry,2023-11-25,466.0,Electronics
+17,Michael Powell,2024-12-10,871.0,Clothing
+18,Sheila Hensley,2024-10-23,589.0,Books
+19,Kelly Tucker,2023-11-01,893.0,Electronics
+20,Suzanne Holt,2023-10-19,550.0,Clothing
+21,Terri Thompson,2024-07-07,,Electronics
+22,Jennifer Harris,2023-04-02,424.0,Home Appliances
+23,Brian Hawkins,2023-06-19,,Electronics
+24,Kendra Rivera,2024-12-17,396.0,Clothing
+25,Jacob Davis,2023-03-07,341.0,
+26,Cynthia Rios,2023-05-09,470.0,Home Appliances
+27,William Moore,2024-01-06,887.0,Home Appliances
+28,Joshua Hicks,2023-11-08,946.0,Clothing
+29,Andrea Smith,2023-04-15,674.0,Books
+30,Samantha Park,2024-03-20,687.0,Clothing
+31,Michelle Lee,2024-02-11,328.0,Clothing
+32,Amber Butler,2023-09-22,827.0,Books
+33,Jacob Medina,2023-11-27,958.0,Electronics
+34,David Fitzgerald,2023-06-18,809.0,Clothing
+35,Allison Swanson,2023-06-01,410.0,Clothing
+36,Aaron Long,2023-04-11,466.0,Electronics
+37,Kathleen Harris,2023-08-03,575.0,Books
+38,Dr. Jerry Delgado,2024-01-14,638.0,Books
+39,Paul Jones,2024-01-20,,Electronics
+40,Bryan Williams,2023-02-25,200.0,Clothing
+41,Vanessa Summers,2023-09-26,190.0,Electronics
+42,William Martin,2023-07-29,938.0,Clothing
+43,Mr. Dennis Miles Jr.,2024-08-28,,
+44,Rebecca Hays,2024-04-19,363.0,Home Appliances
+45,Jennifer Molina,2024-01-25,299.0,Electronics
+46,Alexis Jones,2023-12-26,477.0,Clothing
+47,Gregory Macias,2024-09-11,654.0,Books
+48,Caitlin Henderson,2024-03-11,,Electronics
+49,Victoria Dunn,2024-07-30,455.0,Home Appliances
+50,Nicole Trujillo,2023-12-21,336.0,Home Appliances
+51,Jessica Baird,2024-06-20,300.0,Books
+52,Alexander Smith,2023-10-23,,Home Appliances
+53,Brian Jones,2023-10-10,,Books
+54,Andrew Smith,2024-03-18,622.0,Electronics
+55,Nathan Chan,2023-06-22,811.0,Home Appliances
+56,Sherry Lopez,2023-03-18,614.0,Electronics
+57,Tony Kennedy,2024-04-02,478.0,Clothing
+58,Stacy Martinez,2024-09-23,806.0,Electronics
+59,Amanda Zuniga,2024-10-29,896.0,Clothing
+60,Anthony Chavez,2024-08-02,748.0,Electronics
+61,Brittany Gonzalez,2023-06-05,777.0,Books
+62,Jessica Lopez,2023-02-24,665.0,Clothing
+63,Patricia Dalton,2024-11-06,919.0,Clothing
+64,Mrs. Laura Lewis,2024-07-11,538.0,Home Appliances
+65,Ashley Anderson MD,2023-05-20,786.0,Electronics
+66,April Martinez,2024-12-20,793.0,Clothing
+67,David Hoffman,2024-04-10,521.0,Electronics
+68,Jeffrey Diaz,2023-07-08,202.0,Clothing
+69,Denise Taylor,2023-10-08,876.0,Home Appliances
+70,Heather Ramirez,2023-09-06,176.0,Electronics
+71,Cynthia Doyle,2024-02-23,669.0,Books
+72,Tyler Schaefer,2024-03-01,946.0,Electronics
+73,Mr. Brandon Hensley,2024-01-09,654.0,Electronics
+74,Frank Brown,2024-07-08,846.0,Books
+75,Abigail Branch,2024-02-03,991.0,Home Appliances
+76,Joshua Grimes,2023-10-14,469.0,Books
+77,Jason Hoffman,2023-12-01,597.0,Books
+78,Ashley Johnson,2024-08-29,691.0,Clothing
+79,Nicholas Dyer,2024-12-31,929.0,Books
+80,Michelle Gillespie,2023-12-14,950.0,Books
+81,Nicole Nolan,2023-07-21,270.0,Clothing
+82,Eileen Cole,2024-10-09,305.0,Books
+83,Nicole Hall,2023-12-08,605.0,Clothing
+84,Gregory Butler,2023-02-17,969.0,Electronics
+85,Shane Jackson,2023-04-20,,Clothing
+86,Mark Smith,2025-01-13,841.0,Books
+87,Christopher Allen,2023-03-29,531.0,Electronics
+88,James House,2024-03-24,528.0,Electronics
+89,Molly Espinoza,2024-04-12,750.0,Home Appliances
+90,Kathleen Rivera,2024-11-07,463.0,Home Appliances
+91,Maurice Richards,2024-06-27,344.0,Electronics
+92,Jonathan Spencer,2024-07-09,623.0,Electronics
+93,Omar Roberson,2024-08-07,780.0,Electronics
+94,Amy Morse,2024-04-05,,Clothing
+95,Melanie Gibbs,2024-04-03,905.0,Home Appliances
+96,David Taylor,2024-06-23,533.0,Clothing
+97,James King,2024-05-07,334.0,Electronics
+98,Harold Anderson,2025-01-22,787.0,Home Appliances
+99,Ronald Adams,2024-12-03,802.0,Electronics
+100,Joshua Holmes,2023-12-16,456.0,Books
+5,Michael Johnson,2024-12-19,741.0,Books
+24,Kendra Rivera,2024-12-17,396.0,
+79,Nicholas Dyer,2024-12-31,929.0,Books
+51,Jessica Baird,2024-06-20,300.0,Books
+15,Ashley Barrett,2023-05-08,596.0,Electronics
+77,Jason Hoffman,2023-12-01,597.0,Books
+65,Ashley Anderson MD,2023-05-20,786.0,Electronics
+27,William Moore,2024-01-06,887.0,Home Appliances
+16,Deborah Terry,2023-11-25,466.0,Electronics
+35,Allison Swanson,2023-06-01,410.0,

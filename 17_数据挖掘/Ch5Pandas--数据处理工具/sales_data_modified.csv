@@ -1,0 +1,6 @@
+Date,Product,Quantity,Revenue,HighRevenue
+2024-01-01,A,10,100,False
+2024-01-01,B,15,150,False
+2024-01-02,A,20,200,False
+2024-01-02,B,25,250,True
+2024-01-03,A,30,300,True
